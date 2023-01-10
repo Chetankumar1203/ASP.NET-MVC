@@ -1,0 +1,2 @@
+use CRUDPROJECT
+select * from dbo.EMPLOYEEMASTER
